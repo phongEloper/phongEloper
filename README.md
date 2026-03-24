@@ -1,8 +1,8 @@
-# ROBLOX BACKEND PROGRAMMER 💻📜
+# ROBLOX FULL-STACK PROGRAMMER 💻📜
 
 ## 👋 About Me
 
-Hello, my name is **Pdv**. I'm a **Roblox Full-stack Programmer** with **4.5+ years of experience** (since 07/04/2021). I specialize in designing **clean, maintainable, and scalable game systems**, focusing on performance, reliability. I am comfortable working **independently or within structured teams**, using modern development workflows.
+Hi, my name is **Pdv**. I'm a **Roblox Full-stack Programmer** with **4.5+ years of experience** (since 07/04/2021). I specialize in designing **clean, maintainable, and scalable game systems**, focusing on performance, reliability. I am comfortable working **independently or within structured teams**, using modern development workflows.
 
 - **Location:** Vietnam (GMT +7)
 - **Status:** Currently unavailable 🔴
