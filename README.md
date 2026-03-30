@@ -9,9 +9,6 @@ Hi, my name is **Pdv**. I'm a **Roblox Full-stack Programmer** with **4.5+ years
 - **My portfolio:** https://phongeloper.github.io/portfolio/
 - **More infos:** https://guns.lol/pdv389
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phongEloper)
-![GitHub Streak](https://streak-stats.demolab.com/?user=phongEloper)
-
 ---
 
 ## 🛠 Skills
