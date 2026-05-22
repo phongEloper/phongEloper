@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/917338746620358716)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/pdv389)
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@PhongDev389)
-[![Gumroad](https://img.shields.io/badge/Gumroad-pink?style=for-the-badge&logo=gumroad&logoColor=black)](https://pdvv.gumroad.com/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-pink?style=for-the-badge&logo=gumroad&logoColor=black)](https://pdvstore.gumroad.com/)
 
 ---
 
